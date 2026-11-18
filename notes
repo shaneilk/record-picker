@@ -1,0 +1,9 @@
+By typing the codex command you can go ahead and start the OpenAI/ChatGPT coding agent
+
+What do we want the app to do:
+ - Create a pick record button (done)
+ - Create an image component (Done)
+ 	- Create a view that wraps an image tag and then have it be n by n sized 
+ 	- find a way to get reasources
+ - Create a description component
+
